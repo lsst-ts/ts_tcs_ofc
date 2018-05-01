@@ -1,0 +1,6 @@
+# SensorName  FieldIdx
+R22_S11          0
+R40_S02          31
+R04_S20          32
+R00_S22          33
+R44_S00          34
