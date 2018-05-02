@@ -1,7 +1,5 @@
 ###
-
-This file contains the parameters for the state estimator
-
+#This file contains the parameters for the state estimator
 ###
 
 #estimator strategy
