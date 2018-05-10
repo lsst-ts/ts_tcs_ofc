@@ -18,14 +18,23 @@
 	<Item Name="OptStateEsti.ctl" Type="Class Private Data" URL="OptStateEsti.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="updateZkAndDofIdx.vi" Type="VI" URL="../updateZkAndDofIdx.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%M!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!7&amp;%^Q&gt;&amp;.U982F28.U;3ZM&gt;G.M98.T!!!14X"U5X2B&gt;'6&amp;=X2J)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!&amp;B20=(24&gt;'&amp;U:56T&gt;'EO&lt;(:D&lt;'&amp;T=Q!!$U^Q&gt;&amp;.U982F28.U;3"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!)!!!!!!</Property>
+	<Item Name="setZkAndDofInGroups.vi" Type="VI" URL="../setZkAndDofInGroups.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(5!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!7&amp;%^Q&gt;&amp;.U982F28.U;3ZM&gt;G.M98.T!!!14X"U5X2B&gt;'6&amp;=X2J)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!-1#%(1G^P&lt;'6B&lt;A!91%!!!@````]!"QJ.-C"):8BB='^E!!!;1%!!!@````]!"QR$97UA3'6Y98"P:#!!!"Z!1!!"`````Q!(%5UR44-A1G6O:'FO:S".&lt;W2F!"R!1!!"`````Q!($UUS)%*F&lt;G2J&lt;G=A47^E:1!=1&amp;!!"!!)!!E!#A!,$5202C"J&lt;C"(=G^V=(-!&amp;%"!!!(`````!!='?GYT372Y!!!Q1(!!(A!!&amp;B20=(24&gt;'&amp;U:56T&gt;'EO&lt;(:D&lt;'&amp;T=Q!!$U^Q&gt;&amp;.U982F28.U;3"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!-!!U!$A-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!A!!!))!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!0!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1074274834</Property>
+	</Item>
+	<Item Name="getZkAndDofInGroups.vi" Type="VI" URL="../getZkAndDofInGroups.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(5!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"U*P&lt;WRF97Y!'%"!!!(`````!!1+44)A3'6Y98"P:!!!'E"!!!(`````!!1-1W&amp;N)%BF?'&amp;Q&lt;W1A!!!?1%!!!@````]!""&amp;.-5UT)%*F&lt;G2J&lt;G=A47^E:1!=1%!!!@````]!"!^.-C"#:7ZE;7ZH)%VP:'5!(%"1!!1!"1!'!!=!#!V%4U9A;7YA2X*P&gt;8"T!"2!1!!"`````Q!%"HJO-UFE?!!!-E"Q!"Y!!"954X"U5X2B&gt;'6&amp;=X2J,GRW9WRB=X-!!""0=(24&gt;'&amp;U:56T&gt;'EA&lt;X6U!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!&amp;B20=(24&gt;'&amp;U:56T&gt;'EO&lt;(:D&lt;'&amp;T=Q!!$U^Q&gt;&amp;.U982F28.U;3"J&lt;A"B!0!!$!!$!!E!#A!,!!Q!$!!-!!Q!$1!-!!Q!$A-!!(A!!!U)!!!*!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!0!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
 	</Item>
 	<Item Name="estiOptState.vi" Type="VI" URL="../estiOptState.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'U!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"F!#A!45G6B&lt;#".982S;8AA27RF&lt;76O&gt;!!;1%!!!@````]!"1V0=(2J9W&amp;M)&amp;.U982F!$*!=!!?!!!7&amp;%^Q&gt;&amp;.U982F28.U;3ZM&gt;G.M98.T!!!14X"U5X2B&gt;'6&amp;=X2J)'^V&gt;!!!%5!'!!N';7RU:8)A6(FQ:1!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!!Q!(4H6N:8*J9Q!71%!!!@````]!#AF';76M:#"*:(A!$5!+!!&gt;/&gt;7VF=GFD!"2!1!!#``````````]!$!*;;Q!!-%"Q!"Y!!"954X"U5X2B&gt;'6&amp;=X2J,GRW9WRB=X-!!!^0=(24&gt;'&amp;U:56T&gt;'EA;7Y!91$Q!!Q!!Q!%!!9!"Q!%!!1!"!!)!!E!#Q!.!!Y$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!#!!!!!I!!!))!!!##!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!$Q!!!!!</Property>
