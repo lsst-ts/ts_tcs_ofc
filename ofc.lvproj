@@ -18,6 +18,9 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 			<Property Name="NI.SortType" Type="Int">0</Property>
 		</Item>
+		<Item Name="StrictDef" Type="Folder" URL="../StrictDef">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="OptStateEsti.lvclass" Type="LVClass" URL="../OptStateEsti/OptStateEsti.lvclass"/>
 		<Item Name="OptCtrl.lvclass" Type="LVClass" URL="../OptCtrl/OptCtrl.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
