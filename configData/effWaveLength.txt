@@ -1,3 +1,4 @@
+# This file lists the effective wavelength in um under different light band. The referenced monochromatic light is also listed.
 # FilterType   Wavelength(um)
 u              0.365
 g              0.480
