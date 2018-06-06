@@ -1,7 +1,7 @@
 # Normalized point-source sensitivity (PSSN) information
 # PSSN ~ 1 - alpha * delta^2
 # Eq (7.1) in Normalized Point Source Sensitivity for LSST (document-17242)
-# It is noted that there are 19 terms of alpha value here for z3-z22 to use.
+# It is noted that there are 19 terms of alpha value here for z4-z22 to use.
 #   alpha           delta   
 6.6906168e-03   2.6353589e+00
 9.4460611e-04   5.2758650e+00
