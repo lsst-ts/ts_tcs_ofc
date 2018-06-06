@@ -35,6 +35,3 @@ izn3		1
 #normalize A-matrix?
 normalize_A	0
 
-#number of singular values to to set to infinity
-n_singular_inf	5
-
