@@ -24,6 +24,7 @@
 		<Item Name="OptStateEsti.lvclass" Type="LVClass" URL="../OptStateEsti/OptStateEsti.lvclass"/>
 		<Item Name="OptCtrl.lvclass" Type="LVClass" URL="../OptCtrl/OptCtrl.lvclass"/>
 		<Item Name="BendModeToForce.lvclass" Type="LVClass" URL="../BendModeToForce/BendModeToForce.lvclass"/>
+		<Item Name="CamRot.lvclass" Type="LVClass" URL="../CamRot/CamRot.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
