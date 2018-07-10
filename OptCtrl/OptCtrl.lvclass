@@ -176,13 +176,13 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 		<Item Name="getGroupDof.vi" Type="VI" URL="../getGroupDof.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'(!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!#A!(:7RF&lt;76O&gt;!!11%!!!@````]!"1.%4U9!*E"Q!"Y!!"%04X"U1X2S&lt;#ZM&gt;G.M98.T!!N0=(2$&gt;(*M)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!&amp;1!]&gt;=_$&lt;)!!!!"$%2P:E&gt;S&lt;X6Q,G.U&lt;!!`1"9!"!J.-C"):8AA5'^T#U.B&lt;3"):8AA5'^T#5UR44-A1G6O:!&gt;.-C"#:7ZE!!!*2%^')%&gt;S&lt;X6Q!#:!=!!?!!!2$U^Q&gt;%.U=GQO&lt;(:D&lt;'&amp;T=Q!+4X"U1X2S&lt;#"J&lt;A!!91$Q!!Q!!Q!%!!9!"Q!%!!1!"!!%!!A!"!!*!!I$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;8!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!#A!(:7RF&lt;76O&gt;!!11%!!!@````]!"1.%4U9!*E"Q!"Y!!"%04X"U1X2S&lt;#ZM&gt;G.M98.T!!N0=(2$&gt;(*M)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!".!!Q!-2X*P&gt;8!A4'6O:X2I!!!21!-!#V.U98*U)%FO:'6Y!#:!=!!?!!!2$U^Q&gt;%.U=GQO&lt;(:D&lt;'&amp;T=Q!+4X"U1X2S&lt;#"J&lt;A!!91$Q!!Q!!Q!%!!9!"Q!%!!1!"!!%!!A!#1!+!!M$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!+!!!!#!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
 	</Item>
 	<Item Name="Private" Type="Folder">
