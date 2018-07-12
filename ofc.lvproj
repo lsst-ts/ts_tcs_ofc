@@ -30,6 +30,7 @@
 		<Item Name="CamRot.lvclass" Type="LVClass" URL="../CamRot/CamRot.lvclass"/>
 		<Item Name="SubSysAdap.lvclass" Type="LVClass" URL="../SubSysAdap/SubSysAdap.lvclass"/>
 		<Item Name="ZTAAC.lvclass" Type="LVClass" URL="../ZTAAC/ZTAAC.lvclass"/>
+		<Item Name="testCalcUkInComcam.vi" Type="VI" URL="../UnitTest/ZTAAC/testCalcUkInComcam.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
