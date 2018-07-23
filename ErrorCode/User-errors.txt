@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+The error code range of OFC is 6001-6050.
+
+
+
+
+
+
+<nifamily familyname="OFCerror" displayname="OFCerror">
+</nifamily>
+</nicomment>
+<nierror code="6001">
+Wrong detector name.
+</nierror>
+<nierror code="6002">
+Columns of two 2D arrays do not match.
+</nierror>
+<nierror code="6003">
+Do not find the field index of sensor name.
+</nierror>
+<nierror code="6004">
+No value in the setting.
+</nierror>
+<nierror code="6005">
+The sensitivity matrix shape is inconsistent with the number of element in file.
+</nierror>
+<nierror code="6006">
+Index is out of array size or empty.
+</nierror>
+<nierror code="6007">
+Variable number > equation number.
+</nierror>
+<nierror code="6008">
+Gain is not in the range of [0, 1].
+</nierror>
+<nierror code="6009">
+No Xref is assigned.
+</nierror>
+<nierror code="6010">
+Can not differentiate the input.
+</nierror>
+<nierror code="6011">
+Camera rotation angle should be in the range of -90 and 90 degree.
+</nierror>
+</nidocument>
