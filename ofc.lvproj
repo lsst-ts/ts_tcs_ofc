@@ -14,10 +14,6 @@
 		<Item Name="Test" Type="Folder" URL="../Test">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Utility" Type="Folder" URL="../Utility">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-			<Property Name="NI.SortType" Type="Int">0</Property>
-		</Item>
 		<Item Name="StrictDef" Type="Folder" URL="../StrictDef">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
