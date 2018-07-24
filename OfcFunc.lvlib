@@ -4,6 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="StrictDef" Type="Folder">
+		<Item Name="DofGroup.ctl" Type="VI" URL="../StrictDef/DofGroup.ctl"/>
+		<Item Name="FilterType.ctl" Type="VI" URL="../StrictDef/FilterType.ctl"/>
+		<Item Name="InstName.ctl" Type="VI" URL="../StrictDef/InstName.ctl"/>
+	</Item>
 	<Item Name="BendModeToForce.lvclass" Type="LVClass" URL="../BendModeToForce/BendModeToForce.lvclass"/>
 	<Item Name="CamRot.lvclass" Type="LVClass" URL="../CamRot/CamRot.lvclass"/>
 	<Item Name="OptCtrl.lvclass" Type="LVClass" URL="../OptCtrl/OptCtrl.lvclass"/>
