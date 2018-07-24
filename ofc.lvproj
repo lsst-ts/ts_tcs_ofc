@@ -11,11 +11,54 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Test" Type="Folder" URL="../Test">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="Test" Type="Folder">
+			<Item Name="calcActForce.vi" Type="VI" URL="../Test/calcActForce.vi"/>
+			<Item Name="calcOpt.vi" Type="VI" URL="../Test/calcOpt.vi"/>
+			<Item Name="estiDof.vi" Type="VI" URL="../Test/estiDof.vi"/>
+			<Item Name="estiDofByZTAAC.vi" Type="VI" URL="../Test/estiDofByZTAAC.vi"/>
+			<Item Name="setIdx.vi" Type="VI" URL="../Test/setIdx.vi"/>
 		</Item>
-		<Item Name="UnitTest" Type="Folder" URL="../UnitTest">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="UnitTest" Type="Folder">
+			<Item Name="CamRot" Type="Folder">
+				<Item Name="testCamRot.vi" Type="VI" URL="../UnitTest/CamRot/testCamRot.vi"/>
+				<Item Name="testRotAng.vi" Type="VI" URL="../UnitTest/CamRot/testRotAng.vi"/>
+				<Item Name="testRotGroupDOF.vi" Type="VI" URL="../UnitTest/CamRot/testRotGroupDOF.vi"/>
+			</Item>
+			<Item Name="MatOper" Type="Folder">
+				<Item Name="test1dArrayTo2dArray.vi" Type="VI" URL="../UnitTest/MatOper/test1dArrayTo2dArray.vi"/>
+				<Item Name="test2dArrayTo1dArray.vi" Type="VI" URL="../UnitTest/MatOper/test2dArrayTo1dArray.vi"/>
+				<Item Name="test2dArrayToNx1Array.vi" Type="VI" URL="../UnitTest/MatOper/test2dArrayToNx1Array.vi"/>
+				<Item Name="testAbbrevDetectorName.vi" Type="VI" URL="../UnitTest/MatOper/testAbbrevDetectorName.vi"/>
+				<Item Name="testArangeIdx.vi" Type="VI" URL="../UnitTest/MatOper/testArangeIdx.vi"/>
+				<Item Name="testCheckArrSizeWithIdxArr.vi" Type="VI" URL="../UnitTest/MatOper/testCheckArrSizeWithIdxArr.vi"/>
+				<Item Name="testDiagStackMat.vi" Type="VI" URL="../UnitTest/MatOper/testDiagStackMat.vi"/>
+				<Item Name="testGetArrayNotZeroIdx.vi" Type="VI" URL="../UnitTest/MatOper/testGetArrayNotZeroIdx.vi"/>
+				<Item Name="testGetNonOverlapIdx.vi" Type="VI" URL="../UnitTest/MatOper/testGetNonOverlapIdx.vi"/>
+				<Item Name="testGetSenMfromFile.vi" Type="VI" URL="../UnitTest/MatOper/testGetSenMfromFile.vi"/>
+				<Item Name="testGetSetting.vi" Type="VI" URL="../UnitTest/MatOper/testGetSetting.vi"/>
+				<Item Name="testGetSubArray.vi" Type="VI" URL="../UnitTest/MatOper/testGetSubArray.vi"/>
+				<Item Name="testIdxArrayToBoolArray.vi" Type="VI" URL="../UnitTest/MatOper/testIdxArrayToBoolArray.vi"/>
+				<Item Name="testMatOper.vi" Type="VI" URL="../UnitTest/MatOper/testMatOper.vi"/>
+				<Item Name="testPinvTruncate.vi" Type="VI" URL="../UnitTest/MatOper/testPinvTruncate.vi"/>
+				<Item Name="testReadFile.vi" Type="VI" URL="../UnitTest/MatOper/testReadFile.vi"/>
+			</Item>
+			<Item Name="OptStateEsti" Type="Folder">
+				<Item Name="testOptStateEsti.vi" Type="VI" URL="../UnitTest/OptStateEsti/testOptStateEsti.vi"/>
+				<Item Name="testReadSHWFSdata.vi" Type="VI" URL="../UnitTest/OptStateEsti/testReadSHWFSdata.vi"/>
+				<Item Name="testSetGroupIdx.vi" Type="VI" URL="../UnitTest/OptStateEsti/testSetGroupIdx.vi"/>
+			</Item>
+			<Item Name="SubSysAdap" Type="Folder">
+				<Item Name="testTransHexaPosCoorSys.vi" Type="VI" URL="../UnitTest/SubSysAdap/testTransHexaPosCoorSys.vi"/>
+			</Item>
+			<Item Name="ZTAAC" Type="Folder">
+				<Item Name="testAggState.vi" Type="VI" URL="../UnitTest/ZTAAC/testAggState.vi"/>
+				<Item Name="testCalcUkInComcam.vi" Type="VI" URL="../UnitTest/ZTAAC/testCalcUkInComcam.vi"/>
+				<Item Name="testCalcUkInLsst.vi" Type="VI" URL="../UnitTest/ZTAAC/testCalcUkInLsst.vi"/>
+				<Item Name="testOutputDOF.vi" Type="VI" URL="../UnitTest/ZTAAC/testOutputDOF.vi"/>
+				<Item Name="testRotUk.vi" Type="VI" URL="../UnitTest/ZTAAC/testRotUk.vi"/>
+				<Item Name="testZTAAC.vi" Type="VI" URL="../UnitTest/ZTAAC/testZTAAC.vi"/>
+				<Item Name="testZkAndDofIdx.vi" Type="VI" URL="../UnitTest/ZTAAC/testZkAndDofIdx.vi"/>
+			</Item>
 		</Item>
 		<Item Name="MatOper.lvclass" Type="LVClass" URL="../MatOper/MatOper.lvclass"/>
 		<Item Name="OfcFunc.lvlib" Type="Library" URL="../OfcFunc.lvlib"/>
@@ -81,6 +124,8 @@
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="Application Menu.rtm" Type="Document" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/Caraya/menu/Application Menu.rtm"/>
 				<Item Name="NI_AALBLAS.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBLAS.lvlib"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Conditional Auto-Indexing Tunnel (Variant)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Conditional Auto-Indexing Tunnel (Variant)__ogtk.vi"/>
