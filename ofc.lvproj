@@ -58,6 +58,7 @@
 				<Item Name="testRotUk.vi" Type="VI" URL="../UnitTest/ZTAAC/testRotUk.vi"/>
 				<Item Name="testZTAAC.vi" Type="VI" URL="../UnitTest/ZTAAC/testZTAAC.vi"/>
 				<Item Name="testZkAndDofIdx.vi" Type="VI" URL="../UnitTest/ZTAAC/testZkAndDofIdx.vi"/>
+				<Item Name="testSetFilter.vi" Type="VI" URL="../UnitTest/ZTAAC/testSetFilter.vi"/>
 			</Item>
 		</Item>
 		<Item Name="MatOper.lvclass" Type="LVClass" URL="../MatOper/MatOper.lvclass"/>
