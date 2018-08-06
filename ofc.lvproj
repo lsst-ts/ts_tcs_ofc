@@ -32,7 +32,7 @@
 				<Item Name="testArangeIdx.vi" Type="VI" URL="../UnitTest/MatOper/testArangeIdx.vi"/>
 				<Item Name="testCheckArrSizeWithIdxArr.vi" Type="VI" URL="../UnitTest/MatOper/testCheckArrSizeWithIdxArr.vi"/>
 				<Item Name="testDiagStackMat.vi" Type="VI" URL="../UnitTest/MatOper/testDiagStackMat.vi"/>
-				<Item Name="testGetArrayNotZeroIdx.vi" Type="VI" URL="../UnitTest/MatOper/testGetArrayNotZeroIdx.vi"/>
+				<Item Name="testGetArrayNotAssignedValueIdx.vi" Type="VI" URL="../UnitTest/MatOper/testGetArrayNotAssignedValueIdx.vi"/>
 				<Item Name="testGetNonOverlapIdx.vi" Type="VI" URL="../UnitTest/MatOper/testGetNonOverlapIdx.vi"/>
 				<Item Name="testGetSenMfromFile.vi" Type="VI" URL="../UnitTest/MatOper/testGetSenMfromFile.vi"/>
 				<Item Name="testGetSetting.vi" Type="VI" URL="../UnitTest/MatOper/testGetSetting.vi"/>
@@ -41,6 +41,7 @@
 				<Item Name="testMatOper.vi" Type="VI" URL="../UnitTest/MatOper/testMatOper.vi"/>
 				<Item Name="testPinvTruncate.vi" Type="VI" URL="../UnitTest/MatOper/testPinvTruncate.vi"/>
 				<Item Name="testReadFile.vi" Type="VI" URL="../UnitTest/MatOper/testReadFile.vi"/>
+				<Item Name="testSensorIdToName.vi" Type="VI" URL="../UnitTest/MatOper/testSensorIdToName.vi"/>
 			</Item>
 			<Item Name="OptStateEsti" Type="Folder">
 				<Item Name="testOptStateEsti.vi" Type="VI" URL="../UnitTest/OptStateEsti/testOptStateEsti.vi"/>
@@ -59,9 +60,9 @@
 				<Item Name="testZTAAC.vi" Type="VI" URL="../UnitTest/ZTAAC/testZTAAC.vi"/>
 				<Item Name="testZkAndDofIdx.vi" Type="VI" URL="../UnitTest/ZTAAC/testZkAndDofIdx.vi"/>
 				<Item Name="testSetFilter.vi" Type="VI" URL="../UnitTest/ZTAAC/testSetFilter.vi"/>
+				<Item Name="testMapSensorIdToName.vi" Type="VI" URL="../UnitTest/ZTAAC/testMapSensorIdToName.vi"/>
 			</Item>
 		</Item>
-		<Item Name="MatOper.lvclass" Type="LVClass" URL="../MatOper/MatOper.lvclass"/>
 		<Item Name="OfcFunc.lvlib" Type="Library" URL="../OfcFunc.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -127,6 +128,7 @@
 				<Item Name="NI_AALBLAS.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBLAS.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Conditional Auto-Indexing Tunnel (Variant)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Conditional Auto-Indexing Tunnel (Variant)__ogtk.vi"/>

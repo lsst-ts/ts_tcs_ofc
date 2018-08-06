@@ -11,6 +11,7 @@
 	</Item>
 	<Item Name="BendModeToForce.lvclass" Type="LVClass" URL="../BendModeToForce/BendModeToForce.lvclass"/>
 	<Item Name="CamRot.lvclass" Type="LVClass" URL="../CamRot/CamRot.lvclass"/>
+	<Item Name="MatOper.lvclass" Type="LVClass" URL="../MatOper/MatOper.lvclass"/>
 	<Item Name="OptCtrl.lvclass" Type="LVClass" URL="../OptCtrl/OptCtrl.lvclass"/>
 	<Item Name="OptStateEsti.lvclass" Type="LVClass" URL="../OptStateEsti/OptStateEsti.lvclass"/>
 	<Item Name="SubSysAdap.lvclass" Type="LVClass" URL="../SubSysAdap/SubSysAdap.lvclass"/>
