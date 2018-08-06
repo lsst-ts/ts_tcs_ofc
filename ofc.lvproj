@@ -62,6 +62,9 @@
 				<Item Name="testSetFilter.vi" Type="VI" URL="../UnitTest/ZTAAC/testSetFilter.vi"/>
 				<Item Name="testMapSensorIdToName.vi" Type="VI" URL="../UnitTest/ZTAAC/testMapSensorIdToName.vi"/>
 			</Item>
+			<Item Name="OptCtrl" Type="Folder">
+				<Item Name="testCalcEffGQFWHM.vi" Type="VI" URL="../UnitTest/OptCtrl/testCalcEffGQFWHM.vi"/>
+			</Item>
 		</Item>
 		<Item Name="OfcFunc.lvlib" Type="Library" URL="../OfcFunc.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
