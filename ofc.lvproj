@@ -64,6 +64,7 @@
 			</Item>
 			<Item Name="OptCtrl" Type="Folder">
 				<Item Name="testCalcEffGQFWHM.vi" Type="VI" URL="../UnitTest/OptCtrl/testCalcEffGQFWHM.vi"/>
+				<Item Name="testOptCtrl.vi" Type="VI" URL="../UnitTest/OptCtrl/testOptCtrl.vi"/>
 			</Item>
 		</Item>
 		<Item Name="OfcFunc.lvlib" Type="Library" URL="../OfcFunc.lvlib"/>
