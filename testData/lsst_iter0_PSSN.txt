@@ -1,4 +1,4 @@
-# This file constains the following information (from up to down): (1) PSSN, (2) FWHM, and (3) DM5.
+# This file constains the following information (from up to down): (1) PSSN, (2) FWHM (arcsec), and (3) DM5.
 # The instrument is LSST, which contains 31 field points in the simulation mode. For each row, there are 32 data point.
 # The first 31 data points are the values (PSSN, FWHM, or DM5)related to 31 field points. 
 # The 32th data point is the effective value (PSSN, FWHM, or DM5) on the Gaussian quadrature.
