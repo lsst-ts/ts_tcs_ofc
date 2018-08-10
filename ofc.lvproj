@@ -44,6 +44,7 @@
 					<Item Name="testPinvTruncate.vi" Type="VI" URL="../UnitTest/MatOper/testPinvTruncate.vi"/>
 					<Item Name="testReadFile.vi" Type="VI" URL="../UnitTest/MatOper/testReadFile.vi"/>
 					<Item Name="testSensorIdToName.vi" Type="VI" URL="../UnitTest/MatOper/testSensorIdToName.vi"/>
+					<Item Name="testSensorNameToId.vi" Type="VI" URL="../UnitTest/MatOper/testSensorNameToId.vi"/>
 				</Item>
 				<Item Name="testMatOper.vi" Type="VI" URL="../UnitTest/MatOper/testMatOper.vi"/>
 			</Item>
@@ -70,6 +71,7 @@
 					<Item Name="testZkAndDofIdx.vi" Type="VI" URL="../UnitTest/ZTAAC/testZkAndDofIdx.vi"/>
 					<Item Name="testSetFilter.vi" Type="VI" URL="../UnitTest/ZTAAC/testSetFilter.vi"/>
 					<Item Name="testMapSensorIdToName.vi" Type="VI" URL="../UnitTest/ZTAAC/testMapSensorIdToName.vi"/>
+					<Item Name="testMapSensorNameToId.vi" Type="VI" URL="../UnitTest/ZTAAC/testMapSensorNameToId.vi"/>
 					<Item Name="testToChangeGainByPSSN.vi" Type="VI" URL="../UnitTest/ZTAAC/testToChangeGainByPSSN.vi"/>
 				</Item>
 				<Item Name="testZTAAC.vi" Type="VI" URL="../UnitTest/ZTAAC/testZTAAC.vi"/>
