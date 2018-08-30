@@ -28,6 +28,7 @@
 			</Item>
 			<Item Name="MatOper" Type="Folder">
 				<Item Name="TestCase" Type="Folder">
+					<Item Name="testAppendCircArr.vi" Type="VI" URL="../UnitTest/MatOper/testAppendCircArr.vi"/>
 					<Item Name="test1dArrayTo2dArray.vi" Type="VI" URL="../UnitTest/MatOper/test1dArrayTo2dArray.vi"/>
 					<Item Name="test2dArrayTo1dArray.vi" Type="VI" URL="../UnitTest/MatOper/test2dArrayTo1dArray.vi"/>
 					<Item Name="test2dArrayToNx1Array.vi" Type="VI" URL="../UnitTest/MatOper/test2dArrayToNx1Array.vi"/>
