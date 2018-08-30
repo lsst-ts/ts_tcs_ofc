@@ -8,6 +8,9 @@ The error code range of OFC is 6001-6050.
 
 
 
+
+
+
 <nifamily familyname="OFCerror" displayname="OFCerror">
 </nifamily>
 </nicomment>
@@ -43,5 +46,8 @@ Can not differentiate the input.
 </nierror>
 <nierror code="6011">
 Camera rotation angle should be in the range of -90 and 90 degree.
+</nierror>
+<nierror code="6012">
+The buffer length should be greater than 0 and input array length.
 </nierror>
 </nidocument>
