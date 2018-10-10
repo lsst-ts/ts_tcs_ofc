@@ -2,3 +2,6 @@
 	path = ComponentTemplateCore
 	url = https://github.com/lsst-ts/common_ct_coreuserevents.git
 	branch = develop
+[submodule "ct_cmpuserevents"]
+	path = ct_cmpuserevents
+	url = https://github.com/lsst-ts/ct_cmpuserevents.git
