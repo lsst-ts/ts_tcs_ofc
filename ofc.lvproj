@@ -83,6 +83,13 @@
 				</Item>
 				<Item Name="testOptCtrl.vi" Type="VI" URL="../UnitTest/OptCtrl/testOptCtrl.vi"/>
 			</Item>
+			<Item Name="Utility" Type="Folder">
+				<Item Name="buildPath.vi" Type="VI" URL="../UnitTest/Utility/buildPath.vi"/>
+				<Item Name="getOptCtrlTestSetting.vi" Type="VI" URL="../UnitTest/Utility/getOptCtrlTestSetting.vi"/>
+				<Item Name="getZTAACTestSetting.vi" Type="VI" URL="../UnitTest/Utility/getZTAACTestSetting.vi"/>
+				<Item Name="getSubSysAdapTestSetting.vi" Type="VI" URL="../UnitTest/Utility/getSubSysAdapTestSetting.vi"/>
+				<Item Name="getOptStateEstiTestSetting.vi" Type="VI" URL="../UnitTest/Utility/getOptStateEstiTestSetting.vi"/>
+			</Item>
 			<Item Name="testOfcClasses.vi" Type="VI" URL="../UnitTest/testOfcClasses.vi"/>
 		</Item>
 		<Item Name="OfcFunc.lvlib" Type="Library" URL="../OfcFunc.lvlib"/>
