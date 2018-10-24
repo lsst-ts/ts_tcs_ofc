@@ -12,6 +12,14 @@
 *Author: Te-Wei Tsai*
 *Date: 8-30-2018*
 
+*Version 1.0.1*
+<br/>
+*Remove the hard-coded path in unit tests.*
+<br/>
+
+*Author: Te-Wei Tsai*
+*Date: 10-24-2018*
+
 ## 2. Platform
 
 - *LabVIEW 2016 in CentOS 7.*
