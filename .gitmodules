@@ -1,3 +1,0 @@
-[submodule "ct_cmpuserevents"]
-	path = ct_cmpuserevents
-	url = https://github.com/lsst-ts/ct_cmpuserevents.git
